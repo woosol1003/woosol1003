@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 안녕하세요! CERT를 꿈꾸는 영남대학교 컴퓨터공학과 임우솔입니다!
+
 E-mail:woosol1003@naver.com
 
 <!--
