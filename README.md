@@ -1,10 +1,10 @@
 ## 우솔 woosol Lim
 
-age : 21 (2nd grade
+age : 21 (2nd grade)
 
 university : 영남대학교 컴퓨터공학과
 
-## "침해사고대응 전문가(CERT)를 꿈꾸고 있습니다!"
+👩‍💻 "침해사고대응 전문가(CERT)를 꿈꾸는 대학생입니다!!!"
 
 ## Business
 
