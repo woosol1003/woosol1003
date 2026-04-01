@@ -4,8 +4,9 @@
 
 ## Business
 
-✉ woosol1003@naver.com
-📱 [![Instagram Badge](https://shields.io)](https://www.instagram.com/limsol._.13/#)
+✉ [woosol1003@naver.com]
+
+✩ [![limsol._.13](https://shields.io)](https://www.instagram.com/limsol._.13/#)
 
 <!--
 **woosol1003/woosol1003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
