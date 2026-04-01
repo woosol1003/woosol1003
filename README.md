@@ -1,12 +1,12 @@
 ## 우솔 woosol Lim
 
-안녕하세요! CERT를 꿈꾸는 영남대학교 컴퓨터공학과 임우솔입니다!
+"침해사고대응 전문가(CERT)를 꿈꾸는 영남대학교 컴퓨터공학과 임우솔입니다!"
 
 ## Business
 
-✉ [woosol1003@naver.com]
+E-mail [woosol1003@naver.com]
 
-✩ [![limsol._.13](https://shields.io)](https://www.instagram.com/limsol._.13/#)
+intstagram [![limsol._.13](https://shields.io)](https://www.instagram.com/limsol._.13/#)
 
 <!--
 **woosol1003/woosol1003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
